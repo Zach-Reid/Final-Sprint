@@ -1,0 +1,30 @@
+[
+    {
+        "first": "Tarma",
+        "last": "Roving",
+        "appearance": "Metal Slug 1",
+        "ability": "Vehicles used by Tarma have twice the health",
+        "abilityappearance": "Metal Slug 6"
+    },
+    {
+        "first": "Marco",
+        "last": "Rossi",
+        "appearance": "Metal Slug 1",
+        "ability": "Marco can fire the handgun twice as fast",
+        "abilityappearance": "Metal Slug 6"
+    },
+    {
+        "first": "Eri",
+        "last": "Kasamoto",
+        "appearance": "Metal Slug 2",
+        "ability": "Eri can hold more grenades and throw them in 8 directions",
+        "abilityappearance": "Metal Slug 6"
+    },
+    {
+        "first": "Fio",
+        "last": "Germi",
+        "appearance": "Metal Slug 2",
+        "ability": "Fio can hold more ammo than the other playable characters",
+        "abilityappearance": "Metal Slug 6"
+    }
+]
